@@ -1,0 +1,63 @@
+$primary-color: #84e;
+$radius: 4px;
+
+body{
+  font-family: monospace;
+}
+
+.modal{
+
+  h1{
+    font-size: 2.2rem;
+    text-transform: uppercase;
+    color: $primary-color;
+    text-align: center;
+  }
+
+  p{
+    max-width: 70%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    font-size: 1rem;
+  }
+
+  a{
+    display: block;
+    width: 150px;
+    background-color: $primary-color;
+    padding: 10px;
+    color: white;
+    border-radius: $radius;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    margin: 10px auto;
+  }
+
+}
+
+ul{
+  text-align: center;
+  padding: 0;
+
+  li{
+    list-style: none;
+    display: inline-block;
+
+    a{
+      display: block;
+      padding: 20px;
+      background-color: tomato;
+      text-decoration: none;
+      text-transform: uppercase;
+      color: white;
+      border-radius: $radius;
+      transition: .3s;
+
+      &:hover{
+        background: rgba(255, 99, 71, 0.788);
+      }
+    }
+  }
+}

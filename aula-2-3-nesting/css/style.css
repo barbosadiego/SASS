@@ -1,0 +1,53 @@
+body {
+  font-family: monospace;
+}
+
+.modal h1 {
+  font-size: 2.2rem;
+  text-transform: uppercase;
+  color: #84e;
+  text-align: center;
+}
+.modal p {
+  max-width: 70%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  font-size: 1rem;
+}
+.modal a {
+  display: block;
+  width: 150px;
+  background-color: #84e;
+  padding: 10px;
+  color: white;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  margin: 10px auto;
+}
+
+ul {
+  text-align: center;
+  padding: 0;
+}
+ul li {
+  list-style: none;
+  display: inline-block;
+}
+ul li a {
+  display: block;
+  padding: 20px;
+  background-color: tomato;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  border-radius: 4px;
+  transition: 0.3s;
+}
+ul li a:hover {
+  background: rgba(255, 99, 71, 0.788);
+}
+
+/*# sourceMappingURL=style.css.map */
