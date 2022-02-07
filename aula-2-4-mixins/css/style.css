@@ -1,0 +1,62 @@
+body {
+  font-family: monospace;
+  font-size: 1rem;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.modal {
+  margin: 50px;
+  padding: 30px;
+  box-shadow: 10px 10px 0 0 rgba(0, 0, 0, 0.5), 15px 15px 0 0 rgba(0, 0, 0, 0.5), 20px 20px 0 0 rgba(0, 0, 0, 0.5);
+  -moz-box-sadow: 10px 10px 0 0 rgba(0, 0, 0, 0.5), 15px 15px 0 0 rgba(0, 0, 0, 0.5), 20px 20px 0 0 rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 10px 10px 0 0 rgba(0, 0, 0, 0.5), 15px 15px 0 0 rgba(0, 0, 0, 0.5), 20px 20px 0 0 rgba(0, 0, 0, 0.5);
+}
+.modal h1 {
+  color: #84e;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bold;
+  font-family: monospace;
+  line-height: 1;
+}
+.modal h1::after {
+  content: "";
+  display: block;
+  width: 100px;
+  height: 4px;
+  background-color: #84e;
+  margin: 0 auto;
+}
+@media screen and (max-width: 500px) {
+  .modal h1 {
+    color: green;
+    font-size: 3em;
+  }
+}
+.modal p {
+  max-width: 70%;
+  margin: 0 auto;
+  padding: 10px 0 30px;
+}
+.modal a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: #84e;
+  width: 120px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  border-radius: 4px;
+  font-size: 1.3rem;
+  transition: 0.3s;
+}
+.modal a:hover {
+  background-color: #5511bb;
+}
+
+/*# sourceMappingURL=style.css.map */
