@@ -1,0 +1,20 @@
+body {
+  background-color: tomato;
+  color: white;
+}
+
+body div {
+  background-color: black;
+}
+
+body div h1 {
+  color: blue;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+body div p {
+  color: white;
+  text-transform: capitalize;
+}
+/*# sourceMappingURL=index.css.map */
