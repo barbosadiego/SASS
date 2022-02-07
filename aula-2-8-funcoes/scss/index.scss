@@ -1,0 +1,52 @@
+$color: #84e;
+
+@function em($pixels, $context: 16){
+  @return ($pixels / $context) * 1em
+}
+
+body{
+  font-family: monospace;
+}
+
+.modal{
+  padding: 20px;
+
+  h1{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: $color;
+  }
+
+  p{
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px 0;
+    line-height: 1.4;
+  }
+
+  a{
+    display: block;
+    background-color: $color;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    width: 120px;
+    margin: 0 auto;
+    transition: .3s;
+
+    &:hover{
+      background-color: transparentize($color, .5);
+    }
+  }
+}
+
+.list{
+  list-style: none;
+
+  li{
+    font-size: em(36, );
+  }
+}
