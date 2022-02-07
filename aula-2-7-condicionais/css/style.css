@@ -1,0 +1,43 @@
+body {
+  font-family: monospace;
+}
+
+@media screen and (max-width: 600px) {
+  .modal {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .modal {
+    width: 80%;
+  }
+}
+.modal h1 {
+  font-size: 2em;
+  text-align: center;
+  text-transform: capitalize;
+}
+.modal p {
+  font-family: monospace;
+  font-weight: normal;
+  font-size: 1rem;
+  max-width: 80%;
+  margin: 30px auto;
+  padding: 10px;
+  color: yellow;
+  background-color: purple;
+}
+.modal a {
+  display: block;
+  padding: 10px;
+  background-color: purple;
+  color: yellow;
+  width: 120px;
+  margin: 0 auto;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.5em;
+}
+
+/*# sourceMappingURL=style.css.map */
