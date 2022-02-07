@@ -1,0 +1,54 @@
+.erro, .button-erro {
+  color: red;
+  font-weight: bold;
+}
+
+.button-erro {
+  padding: 20px;
+  width: 200px;
+}
+
+.intro::after, div::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+body {
+  font-family: monospace;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.intro {
+  padding: 20px;
+}
+.intro h1 {
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #84e;
+  text-align: center;
+}
+.intro p {
+  max-width: 80%;
+  margin: 0 auto;
+}
+.intro a {
+  display: block;
+  text-decoration: none;
+  background-color: #84e;
+  padding: 10px;
+  width: 130px;
+  margin: 30px auto;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  transition: 0.3s;
+}
+.intro a:hover {
+  background-color: #471a8a;
+}
+
+/*# sourceMappingURL=style.css.map */
