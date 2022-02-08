@@ -34,7 +34,7 @@
   }
 
   .produto_info p {
-    font-size: 14px;
+    @include tipo-2(14);
     line-height: 20px;
     height: 122px;
     padding: 20px 30px;
@@ -84,7 +84,7 @@
   /*Introducao*/
 
   .introducao h1 {
-    font-size: 36px;
+    @include tipo-2(36);
   }
 
   .introducao {
@@ -113,13 +113,13 @@
   /*Sobre*/
 
   .missao_sobre p {
-    font-size: 14px;
+    @include tipo-2(14);
     line-height: 20px;
     padding-right: 0px;
   }
 
   .missao_sobre ul li {
-    font-size: 14px;
+    @include tipo-2(14);
     line-height: 25px;
   }
 
@@ -135,7 +135,7 @@
   }
 
   .produto_info p {
-    font-size: 14px;
+    @include tipo-2(14);
     line-height: 20px;
     height: auto;
     padding: 20px 30px;
@@ -144,7 +144,7 @@
   .produto_info ul li {
     width: 149px;
     height: 49px;
-    font-size: 14px;
+    @include tipo-2(14);
     line-height: 20px;
     padding-top: 14px;
   }

@@ -15,10 +15,8 @@
 
 .contato_form label {
   display: block;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 18px;
-  line-height: 25px;
   margin-bottom: 4px;
+  @include tipo-2(18);
 }
 
 .contato_form input {
@@ -29,7 +27,7 @@
   padding: 7px 10px;
   margin-bottom: 10px;
   outline: none;
-  font-size: 14px;
+  @include tipo-2(14);
   font-family: Georgia, "Times New Roman", serif;
 }
 
@@ -42,7 +40,7 @@
   padding: 7px 10px;
   margin-bottom: 20px;
   outline: none;
-  font-size: 14px;
+  @include tipo-2(14);
   font-family: Georgia, "Times New Roman", serif;
 }
 
@@ -56,7 +54,7 @@
 }
 
 .contato_dados h3 {
-  font-size: 18px;
+  @include tipo-2(18);
   line-height: 25px;
   text-transform: uppercase;
   color: $amarelo;
@@ -65,7 +63,7 @@
 
 .contato_dados span {
   display: block;
-  font-size: 18px;
+  @include tipo-2(18);
   line-height: 30px;
   font-family: Georgia, "Times New Roman", serif;
 }

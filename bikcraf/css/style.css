@@ -613,7 +613,9 @@ body {
 
 p {
   font-family: Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 14px;
+  line-height: 20px;
   line-height: 20px;
 }
 
@@ -629,7 +631,9 @@ img {
 
 #form-erro span,
 #form-send span {
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 25px;
   margin-bottom: 10px;
   display: block;
@@ -647,7 +651,9 @@ img {
   border: 3px solid #fec63e;
   padding: 10px 30px;
   color: #fec63e;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 14px;
+  line-height: 20px;
   line-height: 20px;
   text-transform: uppercase;
   font-weight: bold;
@@ -666,7 +672,9 @@ img {
 }
 
 .subtitulo {
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 24px;
+  line-height: 30px;
   line-height: 30px;
   font-weight: bold;
   letter-spacing: 0.1em;
@@ -686,7 +694,9 @@ img {
 }
 
 .subtitulo-interno {
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 24px;
+  line-height: 30px;
   line-height: 30px;
   font-weight: bold;
   letter-spacing: 0.1em;
@@ -730,7 +740,9 @@ img {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 14px;
+  line-height: 20px;
   line-height: 20px;
   padding: 10px 0;
   transition: all 0.3s ease;
@@ -756,7 +768,8 @@ img {
 }
 
 .introducao h1 {
-  font-size: 48px;
+  font-family: Georgia, "Times New Romam", serif;
+  font-size: 36px;
   color: #fff;
   font-weight: bold;
   text-transform: uppercase;
@@ -786,7 +799,9 @@ img {
 .quote-externo cite {
   font-style: normal;
   font-weight: bold;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 14px;
+  line-height: 20px;
   letter-spacing: 0.1em;
 }
 
@@ -801,6 +816,7 @@ img {
 }
 
 .introducao-interna h1 {
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 36px;
   font-weight: bold;
   text-transform: uppercase;
@@ -831,7 +847,9 @@ img {
 
 .produtos_lista li h3 {
   font-weight: bold;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 25px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -923,7 +941,9 @@ img {
 
 .qualidade_lista li h3 {
   font-weight: bold;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 25px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -962,7 +982,9 @@ img {
 }
 
 .footer h3 {
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 25px;
   color: #fec63e;
   text-transform: uppercase;
@@ -984,7 +1006,9 @@ img {
 }
 
 .footer_contato ul li {
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 14px;
+  line-height: 20px;
   line-height: 20px;
   font-family: Georgia, "Times New Roman", serif;
 }
@@ -1068,7 +1092,9 @@ img {
 }
 
 .missao_sobre p {
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 25px;
   margin-bottom: 1em;
   padding-right: 60px;
@@ -1076,7 +1102,9 @@ img {
 
 .missao_sobre ul li {
   font-family: Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 30px;
 }
 
@@ -1095,6 +1123,7 @@ img {
 
 .produto_item h2 {
   color: #fff;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 36px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -1130,7 +1159,9 @@ img {
 
 .produto_info p {
   color: #fff;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 25px;
   height: 180px;
   padding: 30px 40px;
@@ -1139,7 +1170,9 @@ img {
 .produto_info ul li {
   background: #fec63e;
   text-transform: uppercase;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 20px;
   font-weight: bold;
   float: left;
@@ -1182,7 +1215,9 @@ img {
   display: block;
   color: #fff;
   font-family: Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 25px;
   margin-bottom: 4px;
 }
@@ -1196,7 +1231,9 @@ img {
   padding: 7px 10px;
   margin-bottom: 10px;
   outline: none;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 14px;
+  line-height: 20px;
   font-family: Georgia, "Times New Roman", serif;
 }
 
@@ -1210,7 +1247,9 @@ img {
   padding: 7px 10px;
   margin-bottom: 20px;
   outline: none;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 14px;
+  line-height: 20px;
   font-family: Georgia, "Times New Roman", serif;
 }
 
@@ -1224,7 +1263,9 @@ img {
 }
 
 .orcamento_dados h3 {
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 25px;
   text-transform: uppercase;
   color: #fec63e;
@@ -1233,7 +1274,9 @@ img {
 
 .orcamento_dados span {
   display: block;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 30px;
   font-family: Georgia, "Times New Roman", serif;
 }
@@ -1248,7 +1291,9 @@ img {
 
 .orcamento_dados ul li {
   font-family: Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 14px;
+  line-height: 20px;
   padding: 10px 15px;
 }
 
@@ -1274,14 +1319,18 @@ img {
 .quote_clientes p {
   text-align: center;
   font-family: Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 25px;
   font-style: italic;
   margin-bottom: 20px;
 }
 
 .quote_clientes cite {
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   font-weight: bold;
   float: right;
   font-style: normal;
@@ -1366,10 +1415,10 @@ img {
 
 .contato_form label {
   display: block;
-  font-family: Georgia, "Times New Roman", serif;
+  margin-bottom: 4px;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
   line-height: 25px;
-  margin-bottom: 4px;
 }
 
 .contato_form input {
@@ -1380,7 +1429,9 @@ img {
   padding: 7px 10px;
   margin-bottom: 10px;
   outline: none;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 14px;
+  line-height: 20px;
   font-family: Georgia, "Times New Roman", serif;
 }
 
@@ -1393,7 +1444,9 @@ img {
   padding: 7px 10px;
   margin-bottom: 20px;
   outline: none;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 14px;
+  line-height: 20px;
   font-family: Georgia, "Times New Roman", serif;
 }
 
@@ -1407,7 +1460,9 @@ img {
 }
 
 .contato_dados h3 {
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 25px;
   text-transform: uppercase;
   color: #fec63e;
@@ -1416,7 +1471,9 @@ img {
 
 .contato_dados span {
   display: block;
+  font-family: Georgia, "Times New Romam", serif;
   font-size: 18px;
+  line-height: 25px;
   line-height: 30px;
   font-family: Georgia, "Times New Roman", serif;
 }
@@ -1482,7 +1539,9 @@ img {
   }
 
   .produto_info p {
+    font-family: Georgia, "Times New Romam", serif;
     font-size: 14px;
+    line-height: 20px;
     line-height: 20px;
     height: 122px;
     padding: 20px 30px;
@@ -1531,6 +1590,7 @@ img {
 
   /*Introducao*/
   .introducao h1 {
+    font-family: Georgia, "Times New Romam", serif;
     font-size: 36px;
   }
 
@@ -1558,13 +1618,17 @@ img {
 
   /*Sobre*/
   .missao_sobre p {
+    font-family: Georgia, "Times New Romam", serif;
     font-size: 14px;
+    line-height: 20px;
     line-height: 20px;
     padding-right: 0px;
   }
 
   .missao_sobre ul li {
+    font-family: Georgia, "Times New Romam", serif;
     font-size: 14px;
+    line-height: 20px;
     line-height: 25px;
   }
 
@@ -1579,7 +1643,9 @@ img {
   }
 
   .produto_info p {
+    font-family: Georgia, "Times New Romam", serif;
     font-size: 14px;
+    line-height: 20px;
     line-height: 20px;
     height: auto;
     padding: 20px 30px;
@@ -1588,7 +1654,9 @@ img {
   .produto_info ul li {
     width: 149px;
     height: 49px;
+    font-family: Georgia, "Times New Romam", serif;
     font-size: 14px;
+    line-height: 20px;
     line-height: 20px;
     padding-top: 14px;
   }
